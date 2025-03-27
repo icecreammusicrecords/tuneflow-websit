@@ -14,7 +14,7 @@ export default function TermsOfServicePage() {
         {/* START OF VERY LONG SAMPLE TEXT (~2000+ words) */}
         <p className="mb-4">
           <strong>1. Introduction</strong><br />
-          Welcome to TuneFlow. These Terms of Service (“Terms”) govern your use of our website, 
+          Welcome to TuneFloww. These Terms of Service (“Terms”) govern your use of our website, 
           mobile application, and any other online services we provide (collectively, the “Services”). 
           By accessing or using the Services, you agree to be bound by these Terms, as well as all 
           applicable laws and regulations. If you do not agree with any of these Terms, you must 
@@ -30,7 +30,7 @@ export default function TermsOfServicePage() {
         </p>
 
         <p className="mb-4">
-          TuneFlow is committed to facilitating a safe and enjoyable environment for all users. 
+          TuneFloww is committed to facilitating a safe and enjoyable environment for all users. 
           The Services are designed to allow artists, labels, and creators to distribute music to 
           various digital platforms. We handle the administrative aspects of distribution so that 
           you can focus on your craft. However, to maintain this environment, we require that you 
@@ -69,7 +69,7 @@ export default function TermsOfServicePage() {
 
         <p className="mb-4">
           All trademarks, service marks, trade names, logos, domain names, and any other features 
-          of the TuneFlow brand (“Brand Features”) are the sole property of TuneFlow or its 
+          of the TuneFloww brand (“Brand Features”) are the sole property of TuneFloww or its 
           licensors. The Terms do not grant you any rights to use any Brand Features for any 
           purpose, whether for commercial or non-commercial use. Any unauthorized use of the Brand 
           Features is strictly prohibited.
@@ -90,7 +90,7 @@ export default function TermsOfServicePage() {
           You agree not to upload or distribute any User Content that is unlawful, harmful, 
           defamatory, obscene, infringing, or otherwise objectionable. You also agree not to use 
           the Services in a way that disrupts or damages the Services or servers, or that harms 
-          other users. TuneFlow reserves the right, but not the obligation, to monitor or remove 
+          other users. TuneFloww reserves the right, but not the obligation, to monitor or remove 
           User Content that we deem to violate these Terms, in our sole discretion.
         </p>
 
@@ -106,7 +106,7 @@ export default function TermsOfServicePage() {
         <p className="mb-4">
           By using the Services, you acknowledge that certain Third-Party Platforms may reject or 
           remove your User Content for any reason, including but not limited to alleged 
-          infringement, explicit content, or violation of the platform’s terms. TuneFlow is not 
+          infringement, explicit content, or violation of the platform’s terms. TuneFloww is not 
           responsible for the policies or actions of any Third-Party Platform, and any disputes 
           related to rejections or takedowns should be addressed directly with the platform in 
           question.
@@ -116,7 +116,7 @@ export default function TermsOfServicePage() {
           <strong>6. Royalties and Earnings</strong><br />
           When your User Content is streamed or purchased on Third-Party Platforms, you may earn 
           royalties or other forms of revenue (“Earnings”). The amount of Earnings you receive 
-          will depend on the terms and rates set by the Third-Party Platforms. TuneFlow will 
+          will depend on the terms and rates set by the Third-Party Platforms. TuneFloww will 
           collect these Earnings on your behalf and disburse them to you according to the payment 
           schedule outlined on our website or in your account dashboard. We reserve the right to 
           withhold a portion of Earnings to cover any applicable fees, taxes, or other charges.
@@ -143,13 +143,13 @@ export default function TermsOfServicePage() {
           In the event a Third-Party Platform issues a chargeback or adjustment related to your 
           User Content, we reserve the right to deduct the corresponding amount from your future 
           Earnings. If your Earnings are insufficient to cover the chargeback or adjustment, you 
-          agree to promptly reimburse TuneFlow upon request.
+          agree to promptly reimburse TuneFloww upon request.
         </p>
 
         <p className="mb-4">
           <strong>8. Taxes</strong><br />
           You are responsible for determining and paying any taxes applicable to the Earnings you 
-          receive from TuneFlow. We may be required by law to withhold certain amounts from your 
+          receive from TuneFloww. We may be required by law to withhold certain amounts from your 
           Earnings, such as withholding taxes. In such cases, we will remit the withheld amounts 
           to the appropriate taxing authority and provide you with documentation if required by 
           law. We are not responsible for determining whether taxes apply to your transactions or 
@@ -175,12 +175,12 @@ export default function TermsOfServicePage() {
 
         <p className="mb-4">
           <strong>10. Disclaimers</strong><br />
-          THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE.” TUNEFLOW MAKES NO WARRANTIES, 
+          THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE.” TUNEFLOWW MAKES NO WARRANTIES, 
           EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS 
           FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SERVICES WILL 
           BE UNINTERRUPTED, ERROR-FREE, OR COMPLETELY SECURE. YOU ACKNOWLEDGE THAT THERE ARE 
           RISKS INHERENT IN INTERNET CONNECTIVITY THAT COULD RESULT IN THE LOSS OF YOUR USER 
-          CONTENT OR EARNINGS, AND YOU AGREE THAT TUNEFLOW IS NOT RESPONSIBLE FOR ANY SUCH LOSS.
+          CONTENT OR EARNINGS, AND YOU AGREE THAT TUNEFLOWW IS NOT RESPONSIBLE FOR ANY SUCH LOSS.
         </p>
 
         <p className="mb-4">
@@ -192,11 +192,11 @@ export default function TermsOfServicePage() {
 
         <p className="mb-4">
           <strong>11. Limitation of Liability</strong><br />
-          TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL TUNEFLOW, ITS AFFILIATES, 
+          TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL TUNEFLOWW, ITS AFFILIATES, 
           OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
           SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF 
           PROFITS, REVENUE, OR DATA, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE 
-          SERVICES OR THESE TERMS. IN NO EVENT SHALL TUNEFLOW’S AGGREGATE LIABILITY EXCEED THE 
+          SERVICES OR THESE TERMS. IN NO EVENT SHALL TUNEFLOWW’S AGGREGATE LIABILITY EXCEED THE 
           AMOUNTS ACTUALLY PAID OR PAYABLE TO YOU IN THE TWELVE (12) MONTHS PRECEDING THE EVENT 
           GIVING RISE TO THE CLAIM.
         </p>
@@ -204,13 +204,13 @@ export default function TermsOfServicePage() {
         <p className="mb-4">
           Some jurisdictions do not allow the limitation or exclusion of liability for incidental 
           or consequential damages, so the above limitation or exclusion may not apply to you. In 
-          such jurisdictions, TuneFlow’s liability will be limited to the greatest extent 
+          such jurisdictions, TuneFloww’s liability will be limited to the greatest extent 
           permitted by law.
         </p>
 
         <p className="mb-4">
           <strong>12. Indemnification</strong><br />
-          You agree to indemnify, defend, and hold harmless TuneFlow, its affiliates, officers, 
+          You agree to indemnify, defend, and hold harmless TuneFloww, its affiliates, officers, 
           directors, employees, and agents from and against any and all claims, liabilities, 
           damages, losses, or expenses (including reasonable attorneys’ fees and costs) arising 
           out of or in any way connected with (a) your access to or use of the Services, (b) your 
@@ -253,9 +253,9 @@ export default function TermsOfServicePage() {
 
         <p className="mb-4">
           <strong>15. Entire Agreement</strong><br />
-          These Terms, together with any additional agreements you may enter into with TuneFlow 
+          These Terms, together with any additional agreements you may enter into with TuneFloww 
           in connection with the Services, constitute the entire agreement between you and 
-          TuneFlow regarding the use of the Services. They supersede all prior or 
+          TuneFloww regarding the use of the Services. They supersede all prior or 
           contemporaneous understandings and agreements, whether written or oral, with respect to 
           the subject matter hereof.
         </p>
@@ -263,7 +263,7 @@ export default function TermsOfServicePage() {
         <p className="mb-4">
           <strong>16. Notices</strong><br />
           You agree that we may provide notices to you via email, regular mail, or postings on 
-          the Services. All notices to TuneFlow must be in writing and sent to our designated 
+          the Services. All notices to TuneFloww must be in writing and sent to our designated 
           address as indicated on our website or via email to our official support email. Notices 
           will be deemed given (a) when delivered personally, (b) one business day after being 
           deposited with a commercial overnight courier, with written verification of receipt, 
@@ -274,8 +274,8 @@ export default function TermsOfServicePage() {
         <p className="mb-4">
           <strong>17. No Agency</strong><br />
           No agency, partnership, joint venture, or employment relationship is created between 
-          you and TuneFlow as a result of these Terms or your use of the Services. You do not 
-          have any authority of any kind to bind TuneFlow in any respect whatsoever.
+          you and TuneFloww as a result of these Terms or your use of the Services. You do not 
+          have any authority of any kind to bind TuneFloww in any respect whatsoever.
         </p>
 
         <p className="mb-4">
@@ -292,7 +292,7 @@ export default function TermsOfServicePage() {
         <p className="mb-4">
           <strong>19. Feedback</strong><br />
           We welcome your suggestions, comments, and feedback on the Services (“Feedback”). If 
-          you provide us with Feedback, you grant TuneFlow a non-exclusive, worldwide, 
+          you provide us with Feedback, you grant TuneFloww a non-exclusive, worldwide, 
           royalty-free, sublicensable, and transferable license to use, reproduce, display, 
           distribute, and otherwise exploit the Feedback for any purpose without compensation to 
           you.
@@ -302,17 +302,17 @@ export default function TermsOfServicePage() {
           <strong>20. Contact Information</strong><br />
           If you have any questions about these Terms or the Services, please contact us at: 
           <a
-            href="mailto:support@tuneflow.in"
+            href="mailto:support@tunefloww.in"
             className="text-blue-400 hover:underline ml-1"
           >
-            support@tuneflow.in
+            support@tunefloww.in
           </a>
           .
         </p>
 
         <p className="mt-8 text-sm text-gray-400">
           <em>
-          © 2025 TuneFlow. All rights reserved.
+          © 2025 TuneFloww. All rights reserved.
           </em>
         </p>
         {/* END OF SAMPLE TEXT */}

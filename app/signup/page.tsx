@@ -40,7 +40,7 @@ export default function SignUpPage() {
       <div className="max-w-md w-full bg-gray-900 p-8 rounded shadow text-white">
         <h1 className="text-3xl font-bold mb-6 text-center">Create an Account</h1>
         <p className="text-center text-gray-400 mb-8">
-          Join TuneFlow to distribute your music worldwide.
+          Join TuneFloww to distribute your music worldwide.
         </p>
 
         <form onSubmit={handleSignUp} className="space-y-5">

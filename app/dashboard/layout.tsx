@@ -80,7 +80,7 @@ export default function DashboardLayout({
       {/* Sidebar */}
       <aside className="w-full md:w-64 bg-gray-900 flex flex-col">
         <div className="p-6 text-2xl font-bold border-b border-gray-700">
-          TuneFlow
+          TuneFloww
         </div>
         <nav className="flex-1 p-4 space-y-2">
           <a

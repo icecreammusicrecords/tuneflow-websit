@@ -69,8 +69,8 @@ export default function ContactPage() {
             <ul className="space-y-4">
               <li>
                 <span className="font-semibold">Email:</span>
-                <a href="mailto:support@tuneflow.in" className="ml-2 underline">
-                  support@tuneflow.in
+                <a href="mailto:support@tunefloww.in" className="ml-2 underline">
+                  support@tunefloww.in
                 </a>
               </li>
               <li>

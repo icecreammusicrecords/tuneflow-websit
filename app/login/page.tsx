@@ -34,7 +34,7 @@ export default function LoginPage() {
       <div className="max-w-md w-full bg-gray-900 p-8 rounded shadow text-white">
         <h1 className="text-3xl font-bold mb-6 text-center">Log In</h1>
         <p className="text-center text-gray-400 mb-8">
-          Enter your credentials to access your TuneFlow account
+          Enter your credentials to access your TuneFloww account
         </p>
 
         <form onSubmit={handleSubmit} className="space-y-5">

@@ -4,7 +4,7 @@ export default function HomePage() {
       {/* HERO SECTION */}
       <section className="bg-gradient-to-r from-blue-900 to-indigo-600 text-white py-16">
         <div className="max-w-5xl mx-auto px-6">
-          <h1 className="text-5xl font-bold mb-4">Welcome to tuneflow</h1>
+          <h1 className="text-5xl font-bold mb-4">Welcome to tunefloww</h1>
           <p className="text-xl mb-8">
             Distribute your music to all major platforms and reach a global audience!
           </p>
@@ -20,7 +20,7 @@ export default function HomePage() {
       {/* FEATURES SECTION */}
       <section className="py-12 bg-gray-100 text-gray-800">
         <div className="max-w-5xl mx-auto px-6">
-          <h2 className="text-3xl font-bold mb-6">Why Choose TuneFlow?</h2>
+          <h2 className="text-3xl font-bold mb-6">Why Choose TuneFloww?</h2>
           <div className="grid gap-6 grid-cols-1 md:grid-cols-3">
             <div className="p-4 bg-white rounded shadow">
               <h3 className="text-xl font-semibold mb-2">Worldwide Reach</h3>
@@ -117,7 +117,7 @@ export default function HomePage() {
       {/* ABOUT SECTION */}
       <section className="bg-white text-gray-800 py-12 px-6">
         <div className="max-w-5xl mx-auto">
-          <h2 className="text-3xl font-bold mb-4">About TuneFlow</h2>
+          <h2 className="text-3xl font-bold mb-4">About TuneFloww</h2>
           <p className="text-lg leading-relaxed mb-6">
             TuneFlow is a pioneering digital music distributor that empowers artists, labels, 
             and managers to get their music heard worldwide. We handle the distribution, so 
@@ -193,12 +193,12 @@ export default function HomePage() {
       {/* FAQ Item 1 */}
       <details className="bg-gray-100 p-4 rounded shadow">
         <summary className="cursor-pointer font-semibold text-lg">
-          How does TuneFlow handle music distribution?
+          How does TuneFloww handle music distribution?
         </summary>
         <p className="mt-2 text-gray-700 leading-relaxed">
           Once you submit your tracks, we distribute them to all major streaming 
           platforms like Spotify, Apple Music, and Amazon. You can track your 
-          streams and earnings through your TuneFlow dashboard.
+          streams and earnings through your TuneFloww dashboard.
         </p>
       </details>
 

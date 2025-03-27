@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
         {/* START OF VERY LONG SAMPLE TEXT (~2000+ words) */}
         <p className="mb-4">
           <strong>1. Introduction</strong><br />
-          Welcome to TuneFlow. We value your privacy and are committed to protecting
+          Welcome to TuneFloww. We value your privacy and are committed to protecting
           your personal information. This Privacy Policy (“Policy”) outlines how we
           collect, use, and disclose information when you access or use our website,
           mobile application, or any other online services we offer (collectively,
@@ -207,7 +207,7 @@ export default function PrivacyPolicyPage() {
 
         <p className="mb-4">
           <strong>7. International Data Transfers</strong><br />
-          TuneFlow is based in [Your Country], but the data we collect may be
+          TuneFloww is based in [Your Country], but the data we collect may be
           processed and stored in other countries, including the United States, 
           European Union member states, or any other jurisdiction where we or our 
           service providers operate. These countries may have data protection laws 
@@ -239,8 +239,8 @@ export default function PrivacyPolicyPage() {
           personal information, such as the right to access, correct, or delete your 
           data, or to object to or restrict certain processing activities. To 
           exercise any of these rights, please contact us at 
-          <a href="mailto:support@tuneflow.in" className="text-blue-400 hover:underline ml-1">
-            support@tuneflow.in
+          <a href="mailto:support@tunefloww.in" className="text-blue-400 hover:underline ml-1">
+            support@tunefloww.in
           </a>
           . We will respond to your request within a reasonable timeframe and in 
           accordance with applicable laws.
@@ -327,17 +327,17 @@ export default function PrivacyPolicyPage() {
           or if you would like to make a complaint, request, or inquiry regarding 
           your personal information, please contact us at: 
           <a
-            href="mailto:support@tuneflow.in"
+            href="mailto:support@tunefloww.in"
             className="text-blue-400 hover:underline ml-1"
           >
-            support@tuneflow.in
+            support@tunefloww.in
           </a>
           .
         </p>
 
         <p className="mb-4">
           <strong>17. Additional Placeholder Text for Word Count</strong><br />
-          At TuneFlow, we continuously strive to provide clarity and transparency 
+          At TuneFloww, we continuously strive to provide clarity and transparency 
           about our data handling processes. This additional text serves as an 
           extension to ensure we meet a length threshold that allows for a more 
           comprehensive coverage of potential privacy scenarios. For instance, if 
@@ -364,7 +364,7 @@ export default function PrivacyPolicyPage() {
 
         <p className="mb-4">
           If you have a subscription or other contractual relationship with 
-          TuneFlow, certain data about your payment history, transaction records, 
+          TuneFloww, certain data about your payment history, transaction records, 
           and usage analytics may be retained for audit and tax purposes. We will 
           not sell this information to third parties, and it will be handled in 
           accordance with our data security policies. Should you wish to terminate 
@@ -407,14 +407,14 @@ export default function PrivacyPolicyPage() {
           requirements. Whether through compliance with local laws, adoption of new 
           technologies, or ongoing dialogue with our user community, we strive to 
           ensure that your personal information is handled responsibly and 
-          ethically. We appreciate the trust you place in TuneFlow and are 
+          ethically. We appreciate the trust you place in TuneFloww and are 
           committed to upholding that trust by maintaining robust privacy and 
           security measures across all facets of our Services.
         </p>
 
         <p className="mt-8 text-sm text-gray-400">
           <em>
-          © 2025 TuneFlow. All rights reserved.
+          © 2025 TuneFloww. All rights reserved.
           </em>
         </p>
         {/* END OF SAMPLE TEXT */}

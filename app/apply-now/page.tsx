@@ -266,7 +266,7 @@ export default function ApplyNowPage() {
                 htmlFor="privacyPolicy"
                 className="ml-2 text-sm text-gray-200"
               >
-                I declare that I have read TuneFlow’s Privacy Protection Policy
+                I declare that I have read TuneFloww’s Privacy Protection Policy
               </label>
             </div>
 

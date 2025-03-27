@@ -18,7 +18,7 @@ export default function NavBar() {
             <Link href="/">
               <Image
                 src="/logo.png"      // Make sure you have a file named logo.png in public/
-                alt="TuneFlow Logo"
+                alt="TuneFloww Logo"
                 width={40}
                 height={40}
                 className="cursor-pointer"
@@ -27,7 +27,7 @@ export default function NavBar() {
             </Link>
             {/* Brand Name linked to Home */}
             <Link href="/" className="text-xl font-bold">
-              TuneFlow
+              TuneFloww
             </Link>
           </div>
 

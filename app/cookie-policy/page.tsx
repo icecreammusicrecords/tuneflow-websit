@@ -14,7 +14,7 @@ export default function CookiePolicyPage() {
         {/* BEGIN LONG PLACEHOLDER COOKIE POLICY TEXT */}
         <p className="mb-4">
           <strong>1. Introduction</strong><br />
-          Welcome to TuneFlow (“we,” “us,” or “our”). We use cookies and similar 
+          Welcome to TuneFloww (“we,” “us,” or “our”). We use cookies and similar 
           tracking technologies (collectively, “Cookies”) to provide, customize, 
           and improve our services. This Cookie Policy explains what Cookies are, 
           how and why we use them, and what choices you have regarding their use. 
@@ -31,10 +31,10 @@ export default function CookiePolicyPage() {
           information is used. If you have any questions about this Cookie 
           Policy or our data practices, please contact us at{" "}
           <a
-            href="mailto:support@tuneflow.in"
+            href="mailto:support@tunefloww.in"
             className="text-blue-400 hover:underline"
           >
-            support@tuneflow.in
+            support@tunefloww.in
           </a>
           .
         </p>
@@ -251,7 +251,7 @@ export default function CookiePolicyPage() {
           of electronic storage is 100% secure. Therefore, we cannot guarantee 
           its absolute security. You are responsible for keeping your account 
           credentials confidential and for controlling access to emails between 
-          you and TuneFlow at all times.
+          you and TuneFloww at all times.
         </p>
 
         <p className="mb-4">
@@ -353,10 +353,10 @@ export default function CookiePolicyPage() {
           If you have any questions or concerns about this Cookie Policy, 
           please contact us at{" "}
           <a
-            href="mailto:support@tuneflow.in"
+            href="mailto:support@tunefloww.in"
             className="text-blue-400 hover:underline"
           >
-            support@tuneflow.in
+            support@tunefloww.in
           </a>
           . We will make every effort to address your inquiry in a timely and 
           thorough manner.
@@ -364,7 +364,7 @@ export default function CookiePolicyPage() {
 
         <p className="mt-8 text-sm text-gray-400">
           <em>
-          © 2025 TuneFlow. All rights reserved.
+          © 2025 TuneFloww. All rights reserved.
           </em>
         </p>
         {/* END LONG PLACEHOLDER COOKIE POLICY TEXT */}

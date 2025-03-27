@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand/Info */}
           <div>
-            <h3 className="text-xl font-bold mb-2">TuneFlow</h3>
+            <h3 className="text-xl font-bold mb-2">TuneFloww</h3>
             <p className="text-sm text-gray-300">
               Distribute your music to all major platforms and reach a global audience.
             </p>
@@ -73,7 +73,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 border-t border-gray-700 pt-4 text-center text-sm text-gray-400">
-          &copy; {new Date().getFullYear()} TuneFlow. All rights reserved.
+          &copy; {new Date().getFullYear()} TuneFloww. All rights reserved.
         </div>
       </div>
     </footer>
